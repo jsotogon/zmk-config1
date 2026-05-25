@@ -8,4 +8,4 @@ manifest:
       revision: main
       import: true
   self:
-    path: config
+    path: .
